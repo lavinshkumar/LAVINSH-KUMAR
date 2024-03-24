@@ -1,0 +1,152 @@
+# LAVINSH-KUMAR
+HARE KRISHNA 
+<!DOCTYPE html>
+<html>
+<title>Online FORM </title>
+
+<head>
+    <style>
+    </style>
+</head>
+
+<body>
+<form>
+    <DIV>
+        <H1 style="text-align:CENTER"> HELLO FRIENDS,</H2>
+    </DIV>
+
+    <div style="text-align:left"> <H3  STYLE=" BACKGROUND-COLOR:YELLOW ">Hi, everyone! My name is Lavinsh Kumar , and I am thrilled to be your online tutor. I am doing Diploma in Computer Science from Delhi Skill and Entrepreneurship University, and   Teaching is my passion, and I love nothing more than helping students develop their skills and achieve their academic goals.
+</H3>  </div>
+
+    <div style="text-align:CENTER ">
+        <H2> HOW ARE YOU?</H2>
+    </div>
+    <IMG SRC="https://www.itpedia.nl/wp-content/uploads/2018/02/Thinking_Face_Emoji.png" HEIGHT=200 </DIV>
+    <DIV>
+        <A> <input TYPE = RADIO value="FINE  " name="FINE">I AM FINE </A> </DIV>
+    <BR>
+    <DIV> <input TYPE=RADIO value="FINE " name="FINE">I AM NOT FINE </DIV>
+    <BR>
+    <DIV>
+        <H4 style="text-align:CENTER">
+            <BUTTON> NEXT </BUTTON>
+        </H4>
+    </DIV>
+
+    <BR>
+        <BR> <D><H2 STYLE=" BACKGROUND-COLOR: ORANGE  ">SELECT YOUR CLASS:-</H2></D>
+        <BR>  
+                                <input type="radio" value="class 10 " name="class">class 1st  To class 5th 
+                                <br>
+        
+        
+        <input type="radio" value="class 10 " name="class">class 5th
+        <BR>
+                                    <input type="radio" value="class 10 " name="class">class 6th
+                                    <BR>
+                                                            <input type="radio" value="class 10 " name="class">class 7th 
+                                                            <BR><input type="radio" value="class 10 " name="class">class 8th 
+                                                            <BR><input type="radio" value="class 10 " name="class">class 9th  <BR>                      <input type="radio" value="class 10 " name="class">class 10th
+        
+    <DIV style="text-align:CENTER">
+        <H2 STYLE="BACKGROUND-COLOR:SKYBLUE">
+            REGISTRATION  THIS FORM :-</H2>
+    </DIV>
+    <D>
+        <H4 STYLE="MARGIN-EFT:100PX"> 1) NAME:-
+            <INPUT stylE="TEXT"  PLACEHOLDER="NAME " <D>
+            <BR>
+            <BR>
+            <D>
+                <H4 STYLE="MARGIN-EFT:100PX">2)DATE OF BIRTH:-
+                    <INPUT stylE="TEXT"  PLACEHOLDER ="DD-MM-YYYY " </D>
+                    <BR>
+                    <BR>
+                    <D>
+                        <H4 STYLE="MARGIN-EFT:100PX"> 3) FATHER'S NAME:-
+                            <INPUT stylE="TEXT"  PLACEHOLDER="TYPE SOMETHING HERE " </D>
+                            <BR>
+                            <BR>
+                            <D>
+                                <H4 STYLE="MARGIN-EFT:100PX">4) MOTHER'S NAME :-
+                                    <INPUT stylE="TEXT"  PLACEHOLDER="TYPE SOMETHING HERE " </D>
+                                    <BR>
+                                    <BR>
+                                    <D>
+                                        <H4 STYLE="MARGIN-EFT:100PX">5) CONTACT NUMBER :-
+                                            <INPUT stylE="TEXT"  PLACEHOLDER="XXXXXXXXXX " <BR>
+                                            <A STYLE="MARGIN-EFT:100PX">
+                                                <INPUT stylE="TEXT" PLACEHOLDER="XXXXXXXXXX " </A> </D>
+                                    <BR>
+                                    <BR>
+                                    <D>
+                                        <H4 STYLE="MARGIN-EFT:100PX"> 6) ADDRESS:-
+                                            <INPUT stylE="LINE " TEXT="MESSAGE  " </D>
+                                            <BR>
+                                            
+                                            <D>
+                                                <BR>
+                                                    <D><H4>7) CITY :- <INPUT stylE="TEXT" TEXT="TYPE SOMETHING HERE "</H4></D>
+                                                    <BR><BR><D> 
+                         <D><H4>SELECT YOUR STATES:-</H4></D>
+                                                        <SELECT style=" NAME:STATES">
+                                                        <OPTION style=" VALUE:HARYANA">HARYANA </OPTION>
+                    <OPTION style=" VALUE:PUNJAB">PUNJAB </OPTION>
+                    <OPTION style=" VALUE:UTTAR  PRADESH">UTTAR PRADESH </OPTION>
+                    <OPTION style=" VALUE : UTTRAKHAND ">UTTRAKHAND </OPTION>
+                    <OPTION style="VALUE :DELHI">DELHI </OPTION>
+                    <OPTION style="VALUE :BIHAR">BIHAR </OPTION>
+                    <OPTION style= "VALUE:GOA">GOA </OPTION>
+                    <OPTION style="VALUE :GUJRAT">GUJRAT </OPTION>
+                    <OPTION style= "VALUE :MADHYA PRADESH">MADHYA PRADESH  </OPTION> </SELECT>
+                    </D>
+                    <BR><BR>
+                                                        8) EMAIL.<INPUT stylE="LINE " TEXT="MESSAGE  "</H4>
+                        <d> 
+                        <BR>
+                            <BR>9) GENDER :-    </h4></d>
+         <input type="radio" value="MALE  " name="GENDER ">MALE
+         <input type="radio" value="FEMALE  " name="GENDER ">FEMALE
+        <input type="radio" value="OTHER  " name="GENDER ">OTHER
+                                                    
+                                                    <BR><br>
+                                            <BR>
+
+                                            <D>
+                                                <H STYLE="text-align:CENTER">ONLINE CLASS  FEE  ONLY  
+                                                Rs. 2000/-  :-
+                                            </D><BR>
+                                            <D>
+<H4> 1) NAME:-
+            <INPUT stylE="TEXT" TEXT="TYPE SOMETHING HERE " </D>
+    <D><H4>2) LAST NAME :- <INPUT stylE="TEXT" TEXT="TYPE SOMETHING HERE " </D>
+        <D> <H4>3) EMAIL :- <INPUT stylE="TEXT"  PLACEHOLDER="XXXXXXXXX@gmail.com "</D>
+            <D><H4>4)  CONTACT NUMBER :- <INPUT stylE="TEXT"  PLACEHOLDER="10 DIGITS "</H4></D>
+            <D> <H4>5)  Credit  Card number :-<INPUT stylE="TEXT"  PLACEHOLDER =" XXXX XXXX XXXX XXXX " <br> <br>
+            <br><INPUT stylE="TEXT"  PLACEHOLDER ="  MM / YY "<BR>
+            <INPUT stylE="TEXT"  PLACEHOLDER =" CVC  "
+            
+            </D>
+                <d><BUTTON> GET OTP </BUTTON></d>
+                <DIV>
+                    <BR> ENTER OTP :- <INPUT stylE="TEXT"  PLACEHOLDER =" 6 DIGITS  "  </DIV>
+                        <BR>
+                            <BR>
+                                PHOTO:<INPUT TYPE="FILE"
+                                <BR>
+                                    <BR><BR>
+                                        SIGNATURE:<INPUT TYPE ="FILE"
+                                        <BR>
+                                            <BR>
+                                                
+                            <BUTTON STYLE="text-align:CENTRE   "> SUMIT</BUTTON>
+                            
+                         
+                            
+                         
+    </form>
+                             
+
+</body>
+
+</html>
